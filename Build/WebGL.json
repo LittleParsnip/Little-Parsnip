@@ -1,7 +1,7 @@
 {
-"companyName": "LittleParsnip",
-"productName": "小防风的自制游戏",
-"productVersion": "1.2",
+"companyName": "Little Parsnip",
+"productName": "我也不知道应该叫啥名",
+"productVersion": "1.3",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.13f1c1"
+"unityVersion": "2019.4.19f1c1"
 }
